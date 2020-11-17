@@ -1,4 +1,4 @@
-# AvArmy software - Vulnerability analysis using Machine Learning
+# AvArmy software - Vulnerability analysis using Machine learning
 AvArmy is a software for the detection and analysis of vulnerabilities in services and web applications using Machine learning.
 
 1) Search for vulnerabilities + Machine learning
