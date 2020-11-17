@@ -3,7 +3,7 @@ AvArmy is a software for the detection and analysis of vulnerabilities in servic
 
 1) Search for vulnerabilities + Machine learning
 2) Cloud + multi-platform support
-3) real time reporting
+3) Real time reporting
 
 
 Follow it:
